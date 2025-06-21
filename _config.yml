@@ -1,4 +1,4 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: paguielng/shopis-developer-docs
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
